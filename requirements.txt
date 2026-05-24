@@ -1,0 +1,11 @@
+# Derin Öğrenme Tabanlı Hayvan Takip ve Giriş/Çıkış Sayma Sistemi
+# Gerekli Python paketleri
+
+# YOLO + takip (ByteTrack dahil)
+ultralytics>=8.0.0
+
+# Görüntü işleme
+opencv-python>=4.8.0
+
+# Sayısal hesaplama
+numpy>=1.24.0
